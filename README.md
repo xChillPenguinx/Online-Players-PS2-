@@ -1,2 +1,2 @@
 # Online-Players-PS2-
-Shows online players withing Planetside 2 for outfits
+Shows online players within Planetside 2 for outfits
